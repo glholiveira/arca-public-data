@@ -1,0 +1,261 @@
+{
+  "sucesso": true,
+  "fonte": "Google Sheets - Investimentos",
+  "aba": "Transacoes",
+  "totalRegistros": 28,
+  "atualizadoEm": "2026-11-23T17:27:49.557Z",
+  "transacoes": [
+    {
+      "Data": "15/09/2026",
+      "Ticker": "Caixinha 120%",
+      "Tipo": "Compra",
+      "Quantidade": "1",
+      "PrecoMedio": "",
+      "ValorAplicado": "R$ 10.000,00",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "Caixinha 100%",
+      "Tipo": "Compra",
+      "Quantidade": "1",
+      "PrecoMedio": "",
+      "ValorAplicado": "R$ 15.225,01",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "Nikos ouro ",
+      "Tipo": "Compra",
+      "Quantidade": "1",
+      "PrecoMedio": "",
+      "ValorAplicado": "R$ 300,00",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "AXIA3",
+      "Tipo": "Compra",
+      "Quantidade": "10",
+      "PrecoMedio": "R$ 53,97",
+      "ValorAplicado": "R$ 539,70",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "BBSE3",
+      "Tipo": "Compra",
+      "Quantidade": "35",
+      "PrecoMedio": "R$ 41,21",
+      "ValorAplicado": "R$ 1.034,25",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "BOVA11",
+      "Tipo": "Compra",
+      "Quantidade": "20",
+      "PrecoMedio": "R$ 182,95",
+      "ValorAplicado": "R$ 3.659,00",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "CPTS11",
+      "Tipo": "Compra",
+      "Quantidade": "28",
+      "PrecoMedio": "R$ 787,00",
+      "ValorAplicado": "R$ 220,30",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "HGLG11",
+      "Tipo": "Compra",
+      "Quantidade": "12",
+      "PrecoMedio": "R$ 146,74",
+      "ValorAplicado": "R$ 1.760,92",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "ITUB4",
+      "Tipo": "Compra",
+      "Quantidade": "20",
+      "PrecoMedio": "R$ 41,78",
+      "ValorAplicado": "R$ 835,60",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "IVVB11",
+      "Tipo": "Compra",
+      "Quantidade": "10",
+      "PrecoMedio": "R$ 437,00",
+      "ValorAplicado": "R$ 4.370,00",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "KNCR11",
+      "Tipo": "Compra",
+      "Quantidade": "23",
+      "PrecoMedio": "R$ 105,76",
+      "ValorAplicado": "R$ 2.432,37",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "MXRF11",
+      "Tipo": "Compra",
+      "Quantidade": "260",
+      "PrecoMedio": "R$ 9,24",
+      "ValorAplicado": "R$ 2.402,02",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "TAEE11",
+      "Tipo": "Compra",
+      "Quantidade": "12",
+      "PrecoMedio": "R$ 41,07",
+      "ValorAplicado": "R$ 492,84",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "VALE3",
+      "Tipo": "Compra",
+      "Quantidade": "17",
+      "PrecoMedio": "R$ 71,27",
+      "ValorAplicado": "R$ 944,13",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "VISC11",
+      "Tipo": "Compra",
+      "Quantidade": "15",
+      "PrecoMedio": "R$ 103,50",
+      "ValorAplicado": "R$ 1.552,50",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "WRLD11",
+      "Tipo": "Compra",
+      "Quantidade": "26",
+      "PrecoMedio": "R$ 147,96",
+      "ValorAplicado": "R$ 3.846,99",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "15/09/2026",
+      "Ticker": "XPLG11",
+      "Tipo": "Compra",
+      "Quantidade": "19",
+      "PrecoMedio": "R$ 90,93",
+      "ValorAplicado": "R$ 1.727,76",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "18/09/2026",
+      "Ticker": "BTLG11",
+      "Tipo": "Compra",
+      "Quantidade": "24",
+      "PrecoMedio": "R$ 99,78",
+      "ValorAplicado": "R$ 2.394,68",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "28/09/2026",
+      "Ticker": "Tesouro IPCA+ 2032",
+      "Tipo": "Compra",
+      "Quantidade": "1",
+      "PrecoMedio": "IPCA + 7,68% a.a.",
+      "ValorAplicado": "R$ 4.987,65",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "29/09/2026",
+      "Ticker": "Nikos ouro ",
+      "Tipo": "Compra",
+      "Quantidade": "1",
+      "PrecoMedio": "",
+      "ValorAplicado": "R$ 200,00",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "27/10/2026",
+      "Ticker": "CPTS11",
+      "Tipo": "Compra",
+      "Quantidade": "139",
+      "PrecoMedio": "R$ 7,17",
+      "ValorAplicado": "R$ 996,96",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "27/10/2026",
+      "Ticker": "VISC11",
+      "Tipo": "Compra",
+      "Quantidade": "10",
+      "PrecoMedio": "R$ 99,67",
+      "ValorAplicado": "R$ 996,73",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "27/10/2026",
+      "Ticker": "BTLG11",
+      "Tipo": "Compra",
+      "Quantidade": "10",
+      "PrecoMedio": "R$ 98,52",
+      "ValorAplicado": "R$ 985,22",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "06/11/2026",
+      "Ticker": "VALE3",
+      "Tipo": "Compra",
+      "Quantidade": "17",
+      "PrecoMedio": "R$ 62,28",
+      "ValorAplicado": "R$ 1.058,76",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "10/11/2026",
+      "Ticker": "Caixinha 100% CDI",
+      "Tipo": "Resgate",
+      "Quantidade": "1",
+      "PrecoMedio": "N/A",
+      "ValorAplicado": "R$ 4.015,00",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "10/11/2026",
+      "Ticker": "BBSE3",
+      "Tipo": "Compra",
+      "Quantidade": "52",
+      "PrecoMedio": "R$ 39,00",
+      "ValorAplicado": "R$ 2.028,13",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "10/11/2026",
+      "Ticker": "BTLG11",
+      "Tipo": "Compra",
+      "Quantidade": "20",
+      "PrecoMedio": "R$ 98,77",
+      "ValorAplicado": "R$ 1.975,44",
+      "ValorAtual": ""
+    },
+    {
+      "Data": "16/11/2026",
+      "Ticker": "BBSE3F",
+      "Tipo": "Compra",
+      "Quantidade": "2",
+      "PrecoMedio": "R$ 36,98",
+      "ValorAplicado": "R$ 73,96",
+      "ValorAtual": ""
+    }
+  ]
+}
